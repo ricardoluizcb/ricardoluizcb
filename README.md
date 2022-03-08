@@ -1,6 +1,6 @@
 ### Olá, meu nome é Ricardo Luiz de Carvalho Barbosa 👋
 
-- Atualmente estou estudando HTML5, CSS3, JavaScript, PHP e Python;
+- Atualmente estou estudando HTML5, CSS3, JavaScript e PHP;
 - Procuro colaborar em projetos WEB em troca de conhecimento e Networking;
 - Saudade de quando o mailto() funcionava 
 
